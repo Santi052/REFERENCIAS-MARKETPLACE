@@ -29,3 +29,6 @@
 ## **LOGOTIPO:**
 ![This is an image](https://i.imgur.com/xGghOM7l.png)
 ----------------------------------------------------------------------
+# Link de Maquetado en FIGMA
+
+[enlace de FIGMA](https://www.figma.com/file/WtCd47PWyqwrdMBKNaN7dM/Maquetado?node-id=0%3A1)
